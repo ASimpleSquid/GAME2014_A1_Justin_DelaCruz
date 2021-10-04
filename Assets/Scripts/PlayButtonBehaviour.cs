@@ -3,8 +3,8 @@
 /// Justin Dela Cruz
 /// 101127646
 /// Last Modified: 2021-10-03
-/// This .cs file makes a button go back
-/// to the main menu screen
+/// This .cs file makes a button go
+/// to the game screen
 /// GAME2014 - Assignment 1
 //////////////////////////////
 

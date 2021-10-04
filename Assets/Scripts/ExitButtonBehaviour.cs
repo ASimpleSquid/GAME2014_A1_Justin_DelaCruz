@@ -3,8 +3,7 @@
 /// Justin Dela Cruz
 /// 101127646
 /// Last Modified: 2021-10-03
-/// This .cs file makes a button go back
-/// to the main menu screen
+/// This .cs file makes the button end the app
 /// GAME2014 - Assignment 1
 //////////////////////////////
 
